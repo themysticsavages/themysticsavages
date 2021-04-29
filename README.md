@@ -1,5 +1,6 @@
 ## Hello ^v^
 Usually now and then, I just make projects, usually to spend time actually making something interesting. I have too much time on my hands 😐
+
 I mostly code in Python, but I like to try different languages sometimes, like NodeJS or something.
 
 ## Other things:
