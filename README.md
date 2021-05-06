@@ -8,6 +8,6 @@ I mostly code in Python, but I like to try different languages sometimes, like N
  - I have a Discord server, but I'm not gonna post the link until my bot is 100% finished.
  - I post amazing projects on scratch.mit.edu (@ajskateboarder).
 
-## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themysticsavages&theme=dark&layout=compact)](https://github.com/themysticsavages?tab=repositories)
 
-![themysticsavages's GitHub stats](https://github-readme-stats.vercel.app/api?username=themysticsavages&show_icons=true&theme=dark)
+##
