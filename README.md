@@ -10,3 +10,4 @@ I mostly code in Python, but I like to try different languages sometimes, like N
 
 ## Stats
 
+![themysticsavages's GitHub stats](https://github-readme-stats.vercel.app/api?username=themysticsavages&show_icons=true&theme=dark)
