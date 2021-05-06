@@ -10,4 +10,4 @@ I mostly code in Python, but I like to try different languages sometimes, like N
 
 ## Stats
 
-[![themysticsavages's GitHub stats](https://github-readme-stats.vercel.app/api?username=themysticsavages)](https://github.com/themysticsavages/github-readme-stats&show_icons=true&theme=dark)
+[![themysticsavages's GitHub stats](https://github-readme-stats.vercel.app/api?username=themysticsavages)](https://github.com/themysticsavages/github-readme-statshide_border=true&bg_color=00000000&text_color=3498db)
