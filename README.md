@@ -11,3 +11,5 @@ I mostly code in Python, but I like to try different languages sometimes, like N
 ![Grade](https://github-readme-stats.vercel.app/api?username=themysticsavages&hide=contribs,prs&theme=dark&layout=compact)
 
 ##
+
+/dog/
