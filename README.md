@@ -12,4 +12,4 @@ I mostly code in Python, but I like to try different languages sometimes, like N
 
 ##
 
-[🐕 Random dog!](https://images.dog.ceo/breeds/setter-irish/n02100877_5986.jpg)
+[🐕 Random dog!](https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_271.jpg)
