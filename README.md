@@ -10,6 +10,6 @@ I just make projects and seldom work on them after a couple of months, mainly be
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themysticsavages&theme=dark&layout=compact)](https://github.com/themysticsavages?tab=repositories)
 ![Grade](https://github-readme-stats.vercel.app/api?username=themysticsavages&hide=contribs,prs&theme=dark&layout=compact)
 
-### Something: [🐕 Random dog!](https://images.dog.ceo/breeds/cotondetulear/100_2013.jpg)
+### Something: [🐕 Random dog!](https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_4972.jpg)
 
 Yeah, that's about it.
