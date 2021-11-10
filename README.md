@@ -6,11 +6,12 @@ I just make projects and seldom work on them after a couple of months, mainly be
 
 ## Other things:
  - I have no socials except Discord which I don't use that much, so don't ask.
+ - I learned Python and JavaScript, and am learning C++ and Golang
  - Don't look at my old projects. They suck
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themysticsavages&theme=dark&layout=compact)](https://github.com/themysticsavages?tab=repositories)
 ![Grade](https://github-readme-stats.vercel.app/api?username=themysticsavages&hide=contribs,prs&theme=dark&layout=compact)
 
-### Something: [🐕 Random dog!](https://images.dog.ceo/breeds/brabancon/n02112706_2391.jpg)
+### Something: [🐕 Random dog!](https://www.stockphotosecrets.com/wp-content/uploads/2018/08/hide-the-pain-stockphoto-840x560.jpg)
 
 Yeah, that's about it.
